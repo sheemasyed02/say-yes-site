@@ -1,6 +1,9 @@
 # say-yes-site
 📌 Say Yes Site – A beautifully designed proposal website crafted with HTML, CSS and JS. Perfect for showcasing an elegant proposal experience online. ✨
 
+## Live Demo
+Website: [Chick Here](https://say-yes-site.netlify.app/) (Netlify)
+
 ## ✨ Features
 - 📌 Clean and romantic design  
 - 🌐 Fully responsive for all devices  
@@ -9,7 +12,8 @@
 
 ## 🚀 Technologies Used
 - HTML  
-- CSS  
+- CSS
+- JS
 
 ## 🎯 How to Use
 1. Clone the repository  
